@@ -18,6 +18,7 @@ I'm CaoYue, Front-end developer from **China**, currently living in **ShangHai**
 
 **Frontend:**
 <p align="left">
+    <img src="[https://img.shields.io/badge/React-rgb(66, 184, 131)?style=flat-square&logo=vue&logoColor=61DAFB](https://img.shields.io/badge/python-3.9-orange?style=for-the-badge&logo=python&logoColor=orange)" />
     <img src="https://img.shields.io/badge/React-rgb(66, 184, 131)?style=flat-square&logo=vue&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
