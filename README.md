@@ -10,19 +10,20 @@ I'm CaoYue, Front-end developer from **China**, currently living in **ShangHai**
 
 **Languages:**
 <p align="left">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5 logo" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3 logo" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript logo" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript logo" />
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart logo" />
 </p>
 
 **Frontend:**
 <p align="left">
-    <img src="https://img.shields.io/badge/Vue-rgb(66, 184, 131)?style=flat-square&logo=Vue&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
-    <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-    <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=Turborepo&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue logo" />
+    <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" alt="Webpack logo" />
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite logo" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React logo" />
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter logo" />
     <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" />
 </p>
 
@@ -33,25 +34,16 @@ I'm CaoYue, Front-end developer from **China**, currently living in **ShangHai**
 
 **DevOps:**
 <p align="left">
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-    <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub logo" />
 </p>
 
 **Tools:**
 <p align="left">
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
-    <img src="https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white" alt="VS Code logo" />
+    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android%20studio&logoColor=white" alt="Android Studio logo" />
 </p>
 
 ---
 
 ## Stats
-
-<a href="https://github.com/YeSuX">
-  <img align="center" width="52%" src="https://github-readme-stats.vercel.app/api?username=YeSuX&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" />
-</a>
-
-<a href="https://github.com/YeSuX">
-  <img align="center" width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=YeSuX&theme=radical&hide_border=false&border_radius=4.5&locale=en&date_format=&properties=background" />
-</a>
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bernese-Mountain&theme=radical&hide_border=false&border_radius=4.5&locale=en&date_format=&show_icons=true&bg_color=000000)
